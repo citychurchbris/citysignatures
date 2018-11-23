@@ -30,11 +30,14 @@
           <option>{{ theme }}</option>
           {% endfor %}
         </select>
+        <div class="form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="checkbox" name="disclaimer">
+              Include disclaimer text
+          </label>
+        </div>
         <br />
-        <label for="disclaimer">Include disclaimer</label>
-        <input type="checkbox" name="disclaimer" id="disclaimer">
-      </p>
-      <button  class="btn btn-lg btn-primary btn-block" type="submit">Generate</button>
+        <button  class="btn btn-lg btn-primary btn-block" type="submit">Generate</button>
     </form>
 
   </body>
