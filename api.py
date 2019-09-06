@@ -6,27 +6,27 @@ themes = {
     'Purple': {
         'hex1': '#5A2D72',
         'hex2': '#000000',
-        'logo': 'https://www.citychurch.org.uk/ext_assets/signatures/cc_siglogo_purple.png',
+        'logo': 'https://assets.citychurch.org.uk/signatures/cc_siglogo_purple.png',
     },
     'Blue': {
         'hex1': '#2158A8',
         'hex2': '#000000',
-        'logo': 'https://www.citychurch.org.uk/ext_assets/signatures/cc_siglogo_blue.png',
+        'logo': 'https://assets.citychurch.org.uk/signatures/cc_siglogo_blue.png',
     },
     'Teal': {
         'hex1': '#4BBEAD',
         'hex2': '#000000',
-        'logo': 'https://www.citychurch.org.uk/ext_assets/signatures/cc_siglogo_teal.png',
+        'logo': 'https://assets.citychurch.org.uk/signatures/cc_siglogo_teal.png',
     },
     'Red': {
         'hex1': '#E5264A',
         'hex2': '#000000',
-        'logo': 'https://www.citychurch.org.uk/ext_assets/signatures/cc_siglogo_red.png',
+        'logo': 'https://assets.citychurch.org.uk/signatures/cc_siglogo_red.png',
     },
     'Black': {
         'hex1': '#000000',
         'hex2': '#555555',
-        'logo': 'https://www.citychurch.org.uk/ext_assets/signatures/cc_siglogo_darkgrey.png',
+        'logo': 'https://assets.citychurch.org.uk/signatures/cc_siglogo_darkgrey.png',
     },
 }
 
